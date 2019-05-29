@@ -47,3 +47,10 @@
 h3 {
     color: darkcyan;
 }
+h4 {
+    margin: 0px;
+}
+.titles {
+    color: cadetblue;
+    margin: 0px;
+}
