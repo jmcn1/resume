@@ -1,0 +1,49 @@
+#overall {
+    background-color: powderblue;
+}
+#container {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: aliceblue;
+    border-left: 1px inset rgb(231, 227, 227); 
+    border-right: 1px inset rgb(231, 227, 227);  
+    margin-top: 10%; 
+}
+#heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    color: darkcyan;
+    font-weight: bold; 
+}
+#email {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10%;
+}
+#linkedin {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10%;
+}
+#phone {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 10%;
+}
+#vl {
+    border-left: 1px inset gray;  
+    height: 100%; 
+    padding: 1px white;
+    position:absolute; 
+    left: 45%;
+}
+#skills {
+    display: inline-flex
+}
+
+h3 {
+    color: darkcyan;
+}
